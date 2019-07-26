@@ -1,5 +1,5 @@
 # vgl-routing-issue
-Repo to demonstrate issues with vue router-link &amp; vue-golden-layout
+Repo to demonstrate issues with closing windows and vue components not being destroyed
 
 # vgl-test
 
